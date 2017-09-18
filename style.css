@@ -1,14 +1,25 @@
 body {
     color: navy;
-	margin: 7%;
+	margin: 5%;
     padding: 5%;
     height: 100%;
     font: normal 16px Georgia;
+    align: center;
     background-color: lightblue;
+   
 
 }
 h2 {
 	text-align: left;
 	color: maroon;
 	font: 13pt georgia, sans-serif;
+}
+header {
+    font: bold 40px Georgia;
+   justify-content: space-around;
+    
+    
+}
+ul {
+    color: green;
 }

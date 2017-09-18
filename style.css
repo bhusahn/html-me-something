@@ -1,0 +1,14 @@
+body {
+    color: navy;
+	margin: 7%;
+    padding: 5%;
+    height: 100%;
+    font: normal 16px Georgia;
+    background-color: lightblue;
+
+}
+h2 {
+	text-align: left;
+	color: maroon;
+	font: 13pt georgia, sans-serif;
+}
